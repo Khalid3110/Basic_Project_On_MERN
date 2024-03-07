@@ -1,0 +1,42 @@
+p{
+    color: #a52a2a;
+    line-height: 30px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+h3{
+    color: black;
+    text-align: center;
+}
+
+body{
+    font-family: Georgia;
+}
+
+a{
+    color: rgb(0, 255, 0);
+    text-decoration: none;
+}
+
+button{
+    background-color: #ffffff;
+    color: blueviolet;
+}
+
+/* hex code for black color is #000000 */
+
+textarea{
+    color: #000000;
+}
+
+span{
+    text-decoration: underline;
+}
+
+
+
