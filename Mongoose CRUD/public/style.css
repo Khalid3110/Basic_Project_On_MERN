@@ -1,0 +1,37 @@
+body {
+  display: inline-block;
+}
+.msg-container {
+  background-color: aquamarine;
+  border-radius: 5px;
+}
+
+p {
+  margin-left: 5px;
+}
+
+#msg {
+  background-color: blueviolet;
+  color: white;
+  padding: 10px;
+}
+
+#new-button {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: brown;
+  color: white;
+  cursor: pointer;
+}
+
+.button {
+  display: flex;
+}
+
+#yes-button {
+  margin-right: 10px;
+}
+
+#edit-button {
+  margin-right: 5px;
+}
