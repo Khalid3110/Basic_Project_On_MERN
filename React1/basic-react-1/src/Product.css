@@ -1,0 +1,7 @@
+.Product {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0 15px 0 15px;
+  margin-bottom: 15px;
+  background-color: hotpink;
+}
